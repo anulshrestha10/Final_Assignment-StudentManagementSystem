@@ -11,5 +11,9 @@ A Student Management System is a system which manages and records the students d
 # Features
 - Very easy and less time consuming
 
+# Conclusion
+- Provides easy, accurate and faster data access
+- Helpul in performing paperless work.
+
 By,
 Anul Shrestha - **Id no:210249** <br>
