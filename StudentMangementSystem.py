@@ -18,7 +18,7 @@ c.execute("""CREATE TABLE addresses1(
       last_name text,
       gender text,
       DOB integer,   
-      address text,  
+      address text, pp
       contact integer,
       email text,   
       city text,     
