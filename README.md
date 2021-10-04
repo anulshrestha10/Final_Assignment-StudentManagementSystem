@@ -1,8 +1,11 @@
 # Student Management System
 
 # Introduction
+A Student Management System is a system which manages and records the students details and informations regarding their admissions,etc. 
 
-Car Race Arcade game is a single player arcade game in which a player controls a regular race car in a race track or in the road. The player will simply need to dodge all the incoming vehicles and other cars until the checkpoint. The game will stop, if the player is hit by the incoming objects or cars. This game is created using pygame programming techniques and codes.
+# Objectives
+- To meet a solution to manage student's details and make it easy for the administration to keep records.
+- To overcome existing problems occuring in maintenance of student's information.
 
 By,
 Anul Shrestha - **Id no:210249** <br>
